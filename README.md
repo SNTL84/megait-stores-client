@@ -10,7 +10,7 @@ Built by **Milan · SNTL 84** · [desidevloper.com](https://desidevloper.com)
 | File | Description | Size |
 |------|-------------|------|
 | `megait-catalog.html` | Full product catalog — CPUs, GPUs, Motherboards, Pre-Builts, PC Builder, Cart, About, Contact | ~130KB |
-| `megait-digital-marketing-proposal.html` | Digital Marketing Proposal — Facebook/Instagram setup, 30-day campaign, pricing ₹3,500–₹6,500 | ~54KB |
+| `megait-performance-marketing-proposal.html` | Performance Marketing Proposal — Facebook/Instagram setup, 30-day campaign, pricing ₹3,500–₹6,500 | ~54KB |
 
 ---
 
